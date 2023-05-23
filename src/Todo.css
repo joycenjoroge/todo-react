@@ -1,0 +1,17 @@
+li{
+    text-decoration: none;
+    list-style: none;
+}
+
+.strike-through{
+    text-decoration: line-through;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #cccc;
+    border-radius: 8px;
+}
+label{
+    display: block;
+}
